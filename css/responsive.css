@@ -73,7 +73,7 @@
     display: none;
   }
 
-  .menu-icon {
+  #navbar nav .menu-icon {
     display: block;
   }
 }
