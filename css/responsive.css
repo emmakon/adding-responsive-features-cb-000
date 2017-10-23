@@ -50,7 +50,7 @@
     float: none;
   }
 
-  .col-3 {
+  .col-3 p {
     column-count: 1;
   }
 }
