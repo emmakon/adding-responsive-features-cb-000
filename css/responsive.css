@@ -72,7 +72,8 @@
   #navbar {
     visibility: hidden;
   }
+
   .menu-icon {
-    visibility: visible;
+    display: inline;
   }
 }
