@@ -53,4 +53,8 @@
   .col-3 p {
     column-count: 1;
   }
+
+  .border-right {
+    border: 0;
+  }
 }
